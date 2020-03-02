@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Home
+title: Visual Comparator
 banner-title: Example Github site
 banner-description: This is a custom Jekyll theme based on UCAR/NCAR's custom 'koru' design. It is built on top of the Foundation framework. This provides users and developers with responsiveness and accessibility.
 banner-button-text: Download

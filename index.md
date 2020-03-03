@@ -2,9 +2,8 @@
 layout: frontpage
 title: Visual Comparator
 banner-title: Visual Comparator
-banner-image: https://aws-unity-test-bucket.s3.amazonaws.com/DemoSetv2/Comparator.gif
 banner-description: An Interactive Comparative Visualization Tool for Dynamic Spatio-Temporal Visualizations
-banner-button-text: GitHub
+banner-button-text: Download
 banner-button-url: https://github.com/NCAR/jekyll-koru-jekyll-template
 ---
 

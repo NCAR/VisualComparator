@@ -5,6 +5,8 @@ banner-title: Visual Comparator
 banner-description: An Interactive Comparative Visualization Tool for Dynamic Spatio-Temporal Visualizations
 banner-button-text: Download
 banner-button-url: https://github.com/NCAR/jekyll-koru-jekyll-template
+banner-button-text: Article
+banner-button-url: https://github.com/NCAR/jekyll-koru-jekyll-template
 ---
 
 <p align="center">

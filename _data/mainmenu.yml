@@ -1,12 +1,10 @@
 menu:
-  - title: Layouts
+  - title: Download
     url: /koru-jekyll-template/pages/layouts.html
     submenu:
-      - title: Submenu Item
+      - title: GitHub
         url: /koru-jekyll-template/pages/submenu.html
-  - title: Updating the Main Menu
+  - title: Article
     url: /koru-jekyll-template/pages/main-menu.html
-  - title: Local Development
-    url: /koru-jekyll-template/pages/local-development.html
   - title: Support
     url: /koru-jekyll-template/pages/support.html

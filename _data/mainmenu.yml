@@ -2,9 +2,15 @@ menu:
   - title: Download
     url: /koru-jekyll-template/pages/layouts.html
     submenu:
-      - title: GitHub
+      - title: Windows
         url: /koru-jekyll-template/pages/submenu.html
-  - title: Article
+      - title: Mac
+        url: /koru-jekyll-template/pages/submenu.html
+      - title: Linux
+        url: /koru-jekyll-template/pages/submenu.html
+      - title: Web
+        url: /koru-jekyll-template/pages/submenu.html
+  - title: GitHub Repository
     url: /koru-jekyll-template/pages/main-menu.html
   - title: Support
     url: /koru-jekyll-template/pages/support.html

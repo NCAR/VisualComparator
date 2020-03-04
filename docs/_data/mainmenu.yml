@@ -8,8 +8,6 @@ menu:
         url: /koru-jekyll-template/pages/submenu.html
       - title: Mac
         url: /koru-jekyll-template/pages/submenu.html
-      - title: Linux
-        url: /koru-jekyll-template/pages/submenu.html
       - title: Web
         url: /koru-jekyll-template/pages/submenu.html
   - title: GitHub

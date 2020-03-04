@@ -1,4 +1,6 @@
 menu:
+  - title: About
+    url: /koru-jekyll-template/pages/support.html
   - title: Download
     url: /koru-jekyll-template/pages/layouts.html
     submenu:
@@ -12,5 +14,4 @@ menu:
         url: /koru-jekyll-template/pages/submenu.html
   - title: GitHub
     url: https://github.com/NCAR/VisualComparator
-  - title: Support
-    url: /koru-jekyll-template/pages/support.html
+  

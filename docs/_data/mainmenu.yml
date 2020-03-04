@@ -1,8 +1,8 @@
 menu:
   - title: About
-    url: /VisualComparator/docs/pages/layouts.html
+    url: /VisualComparator/pages/layouts.html
   - title: Download
-    url: /VisualComparator/docs/pages/layouts.html
+    url: /VisualComparator/pages/layouts.html
     submenu:
       - title: Windows
         url: https://visual-comparator-binaries.s3.amazonaws.com/Comparator_Win_v0_1a.zip

@@ -10,7 +10,7 @@ menu:
         url: /koru-jekyll-template/pages/submenu.html
       - title: Web
         url: /koru-jekyll-template/pages/submenu.html
-  - title: GitHub Repository
+  - title: GitHub
     url: /koru-jekyll-template/pages/main-menu.html
   - title: Support
     url: /koru-jekyll-template/pages/support.html

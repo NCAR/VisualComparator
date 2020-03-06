@@ -4,7 +4,7 @@ Visualizations enable us to detect patterns and trends in complex data sets, tha
 
 ## Unity Version
 
-[Unity 2018.4](https://unity3d.com/get-unity/download/archive) 
+Tested with [Unity 2018.4](https://unity3d.com/get-unity/download/archive) 
 
 ## Instructions
 

@@ -5,3 +5,7 @@ Visualizations enable us to detect patterns and trends in complex data sets, tha
 ## Project File Structure
 
 [TO DO]
+
+## License
+
+The MIT License (MIT) Copyright (c) 2018 Bertrand Martel

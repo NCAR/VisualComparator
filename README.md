@@ -8,4 +8,7 @@ Visualizations enable us to detect patterns and trends in complex data sets, tha
 
 ## License
 
+BSD 3-Clause License.
+
+Copyright (c) 2020, National Center for Atmospheric Research
 

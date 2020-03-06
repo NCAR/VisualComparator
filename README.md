@@ -6,16 +6,16 @@ Visualizations enable us to detect patterns and trends in complex data sets, tha
 
 Tested with [Unity 2018.4](https://unity3d.com/get-unity/download/archive) 
 
-## Supported Platforms
-
-- Desktop/Laptop : OSX, PC
-- Web : Chrome, Firefox, Safari (Does not work on mobile. Unity WebGL limitation)
-
 ## Instructions
 
 1. Download Unity. The project should work with the free version. 
 2. Open the project from /src/VisualComparatorUnityProject.
 3. Sample video files are included in the /sampleFiles folder. Ensure that the videos have the same duration.
+
+## Supported Platforms
+
+- Desktop/Laptop : OSX, PC
+- Web : Chrome, Firefox, Safari (Does not work on mobile. Unity WebGL limitation)
 
 ## Overview
 

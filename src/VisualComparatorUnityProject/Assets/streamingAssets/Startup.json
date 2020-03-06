@@ -1,0 +1,17 @@
+[
+    {
+        "name": "aia_0304.mp4",
+        "isHorizontalSlider": true,
+        "tag":"171 A wavelength telescope"
+    },
+    {
+        "name": "aia_0193.mp4",
+        "isHorizontalSlider": false,
+        "tag":"193 A wavelength telescope"
+    },
+    {
+        "name": "aia_0171.mp4",
+        "isHorizontalSlider": false,
+        "tag":"193 A wavelength telescope"
+    }
+]

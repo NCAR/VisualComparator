@@ -6,6 +6,11 @@ Visualizations enable us to detect patterns and trends in complex data sets, tha
 
 Tested with [Unity 2018.4](https://unity3d.com/get-unity/download/archive) 
 
+## Supported Platforms
+
+- Desktop/Laptop : OSX, PC
+- Web : Chrome, Firefox, Safari (Does not work on mobile. Unity WebGL limitation)
+
 ## Instructions
 
 1. Download Unity. The project should work with the free version. 

@@ -4,15 +4,18 @@ Visualizations enable us to detect patterns and trends in complex data sets, tha
 
 ## Unity Version
 
-Unity 2018.4.14f1
+[Unity 2018.4](https://unity3d.com/get-unity/download/archive) 
+
+## Instructions
+
+1. Download Unity. The project should work with the free version. 
+2. Open the project from /src/VisualComparatorUnityProject.
+3. Sample video files are included in the /sampleFiles folder. Ensure that the videos have the same duration.
 
 ## Overview
 
 ![Overview Image](/docs/Figures/Overview.png)
 
-## Project File Structure
-
-[TO DO]
 
 ## License
 

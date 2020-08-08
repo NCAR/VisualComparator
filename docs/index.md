@@ -6,7 +6,7 @@ banner-description: An Interactive Tool for Dynamic Spatio-Temporal Comparative 
 banner-button-text: Download
 banner-button-url: https://github.com/NCAR/jekyll-koru-jekyll-template
 banner-button-text: Article
-banner-button-url: https://github.com/NCAR/jekyll-koru-jekyll-template
+banner-button-url: https://journals.ametsoc.org/bams/article/doi/10.1175/BAMS-D-19-0266.1/348166/Visual-Comparator-An-Inter-active-Tool-for-Dynamic
 ---
 
 <p align="center">

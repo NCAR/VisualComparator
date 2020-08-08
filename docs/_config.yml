@@ -24,7 +24,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  geinosky
 
 # Build settings
-markdown: kramdown
+markdown: GFM
 remote_theme: ncar/koru-jekyll@1.0.25
 plugins:
   - jekyll-feed

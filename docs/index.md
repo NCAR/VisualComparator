@@ -2,7 +2,7 @@
 layout: frontpage
 title: Visual Comparator
 banner-title: An Interactive Tool for Dynamic Spatio-Temporal Comparative Visualizations
-banner-description: Cherukuru, N. W., and T. Scheitlin, Visual Comparator: An Inter active Tool for Dynamic Spatio-Temporal Comparative Visualizations. Bull. Amer. Meteor. Soc., doi- https://doi.org/10.1175/BAMS-D-19-0266.1
+banner-description: Cherukuru, N. W., and T. Scheitlin, Visual Comparator- An Inter active Tool for Dynamic Spatio-Temporal Comparative Visualizations. Bull. Amer. Meteor. Soc., doi- https://doi.org/10.1175/BAMS-D-19-0266.1
 banner-button-text: Download
 banner-button-url: https://github.com/NCAR/jekyll-koru-jekyll-template
 banner-button-text: Article
